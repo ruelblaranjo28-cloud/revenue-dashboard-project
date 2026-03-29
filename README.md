@@ -40,6 +40,19 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 - Revenue trends showing volatility
 
 ---
+## 📌 Key Insights
+
+### 🚗 Tesla
+- Shows consistent long-term growth in both stock price and revenue
+- Indicates strong company performance and investor confidence
+
+### 🎮 GameStop
+- Displays high volatility and irregular trends
+- Reflects unstable market behavior and shifting investor sentiment
+
+### 📊 Overall
+- Data visualization clearly highlights differences in company performance
+---
 
 ### 🛠 Tools & Technologies
 
@@ -66,6 +79,14 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 - "README.md" → Project documentation
 
 ---
+### 📊 Conclusion
+
+This analysis highlights the contrast between a stable growth company (Tesla) and a highly volatile company (GameStop).
+
+Tesla demonstrates consistent growth and strong market confidence, while GameStop reflects unpredictable behavior and fluctuating trends.
+
+Data visualization plays a crucial role in uncovering patterns and enabling better understanding of financial performance and market dynamics.
+
 
 👤 Author
 
