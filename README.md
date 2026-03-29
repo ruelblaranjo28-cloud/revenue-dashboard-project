@@ -2,7 +2,7 @@
 
 # 📊 Revenue Dashboard Project
 
-🔍 Overview
+###🔍 Overview
 
 This project analyzes Tesla and GameStop stock data and revenue trends. It demonstrates data extraction using APIs and web scraping, data cleaning, and data visualization using Python.
 
@@ -10,7 +10,7 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 
 ---
 
-🎯 Objectives
+###🎯 Objectives
 
 - Extract stock data using "yfinance"
 - Extract revenue data using web scraping
@@ -20,24 +20,24 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 
 ---
 
-📊 Sample Outputs
+###📊 Sample Outputs
 
-Tesla Stock & Revenue
+####Tesla Stock & Revenue
 
 - Visualization of Tesla stock price over time
 - Revenue trends showing company growth
 
-GameStop Stock & Revenue
+####GameStop Stock & Revenue
 
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
 
- 🎮 GameStop Analysis
+#### 🎮 GameStop Analysis
 ![GameStop](gme_plot.png)
 
 ---
 
-🛠 Tools & Technologies
+####🛠 Tools & Technologies
 
 - Python
 - Pandas
@@ -48,7 +48,7 @@ GameStop Stock & Revenue
 
 ---
 
-📈 Key Insights
+####📈 Key Insights
 
 - Tesla shows consistent long-term growth in both stock price and revenue.
 - GameStop displays high volatility and irregular trends.
@@ -56,7 +56,7 @@ GameStop Stock & Revenue
 
 ---
 
-📁 Project Files
+####📁 Project Files
 
 - "tesla-gme-stock-analysis.ipynb" → Main notebook with full analysis
 - "README.md" → Project documentation
