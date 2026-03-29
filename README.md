@@ -1,6 +1,6 @@
 ![Tesla](tesla_plot.png)
 
-📊 # Revenue Dashboard Project
+# 📊 Revenue Dashboard Project
 
 🔍 Overview
 
