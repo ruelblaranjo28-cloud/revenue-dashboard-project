@@ -2,7 +2,7 @@
 
 # 📊 Revenue Dashboard Project
 
-##🔍 Overview
+## 🔍 Overview
 
 This project analyzes Tesla and GameStop stock data and revenue trends. It demonstrates data extraction using APIs and web scraping, data cleaning, and data visualization using Python.
 
