@@ -1,4 +1,6 @@
 # 📊 Stock & Revenue Analysis Dashboard (Tesla vs GameStop)
+🔗 [View Full Project on GitHub](https://github.com/ruelblaranjo28-cloud/tesla-gme-stock-analysis-dashboard)
+
 
 A data science project analyzing stock prices and revenue trends using Python.
 
