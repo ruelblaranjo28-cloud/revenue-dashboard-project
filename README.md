@@ -34,7 +34,7 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 
 ### GameStop Stock & Revenue Analysis
 
-<img src="gme_plot.png" width="800">
+<img src="gme_plot.png" width="100%">
 
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
