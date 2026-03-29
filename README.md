@@ -60,5 +60,13 @@ GameStop Stock & Revenue
 
 👤 Author
 
-Ruel Laranjo
+**Ruel Laranjo**  
 Junior Data Scientist | Python | Data Analysis | Data Visualization
+
+---
+
+## Note
+The dataset used in this project is based on the IBM Data Science Professional Certificate lab. 
+Some visualizations (such as stock and revenue graphs) are limited to data up to mid-2021 due to the structure of the provided functions in the lab.
+
+This project demonstrates data extraction, cleaning, and visualization techniques rather than real-time data analysis.
