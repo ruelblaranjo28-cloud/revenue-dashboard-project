@@ -27,12 +27,12 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 - Visualization of Tesla stock price over time
 - Revenue trends showing company growth
 
-#### GameStop Stock & Revenue
+### GameStop Stock & Revenue
 
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
 
-####  🎮 GameStop Analysis
+###  🎮 GameStop Analysis
 ![GameStop](gme_plot.png)
 
 ---
@@ -48,7 +48,7 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 
 ---
 
-#### 📈 Key Insights
+### 📈 Key Insights
 
 - Tesla shows consistent long-term growth in both stock price and revenue.
 - GameStop displays high volatility and irregular trends.
@@ -56,7 +56,7 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 
 ---
 
-#### 📁 Project Files
+### 📁 Project Files
 
 - "tesla-gme-stock-analysis.ipynb" → Main notebook with full analysis
 - "README.md" → Project documentation
