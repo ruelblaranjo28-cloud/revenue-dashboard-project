@@ -1,6 +1,10 @@
-# 📊 Tesla Stock & Revenue Analysis
+# 📊 Stock & Revenue Analysis Dashboard (Tesla vs GameStop)
 
-<img src="tesla_plot.png" width="800">
+A data science project analyzing stock prices and revenue trends using Python.
+
+<p align="center">
+  <img src="tesla_plot.png" width="100%">
+</p>
 
 
 ### 🔍 Overview
@@ -28,12 +32,7 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 - Visualization of Tesla stock price over time
 - Revenue trends showing company growth
 
-### GameStop Stock & Revenue
-
-- Visualization of GameStop stock price
-- Revenue trends showing volatility
-
-### 🎮 GameStop Analysis
+### GameStop Stock & Revenue Analysis
 
 <img src="gme_plot.png" width="800">
 
