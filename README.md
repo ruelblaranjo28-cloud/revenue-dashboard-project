@@ -1,48 +1,64 @@
-# 📊 Revenue Dashboard Project
+📊 Revenue Dashboard Project
 
-## 🔍 Overview
-This project analyzes revenue data and builds a simple dashboard using Python. It demonstrates data cleaning, analysis, and data visualization techniques.
+🔍 Overview
 
-## 📸 Sample Outputs
+This project analyzes Tesla and GameStop stock data and revenue trends. It demonstrates data extraction using APIs and web scraping, data cleaning, and data visualization using Python.
 
-### 📈 Tesla Stock & Revenue
-![Tesla](tesla.png)
-
-### 📊 GameStop Stock & Revenue
-![GME](gme.png)
+This project is part of my Data Science portfolio showcasing real-world data analysis skills.
 
 ---
 
-## 🛠 Tools & Technologies
+🎯 Objectives
+
+- Extract stock data using "yfinance"
+- Extract revenue data using web scraping
+- Clean and process datasets
+- Visualize stock prices and revenue trends
+- Compare Tesla and GameStop performance
+
+---
+
+📊 Sample Outputs
+
+Tesla Stock & Revenue
+
+- Visualization of Tesla stock price over time
+- Revenue trends showing company growth
+
+GameStop Stock & Revenue
+
+- Visualization of GameStop stock price
+- Revenue trends showing volatility
+
+---
+
+🛠 Tools & Technologies
+
 - Python
 - Pandas
+- yfinance
+- BeautifulSoup (Web Scraping)
 - Matplotlib / Plotly
-- Jupyter Notebook 
+- Jupyter Notebook
 
 ---
 
-## 📁 Project File
-- revenue_dashboard.ipynb
+📈 Key Insights
+
+- Tesla shows consistent long-term growth in both stock price and revenue.
+- GameStop displays high volatility and irregular trends.
+- Data visualization helps clearly compare performance between companies.
 
 ---
 
-## 📈 Key Features
-- Data cleaning and preprocessing
-- Data visualization
-- Dashboard creation
+📁 Project Files
+
+- "tesla-gme-stock-analysis.ipynb" → Main notebook with full analysis
+- "README.md" → Project documentation
 
 ---
 
-## 🎯 Purpose
-This project is part of my journey to becoming a Data Scientist. It showcases my ability to work with data, analyze trends, and present insights clearly.
+👤 Author
 
----
-
-## 📚 Note
-This project is based on an IBM Skills Network lab.  
-I enhanced it by adding my own understanding and analysis of the data.
-
----
-
-## 👤 Author
 Ruel Laranjo
+Junior Data Scientist | Python | Data Analysis | Data Visualization
