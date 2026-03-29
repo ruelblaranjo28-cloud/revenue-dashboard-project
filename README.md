@@ -17,7 +17,7 @@ This project analyzes revenue data and builds a simple dashboard using Python. I
 - Python
 - Pandas
 - Matplotlib / Plotly
-- Jupyter Notebook
+- Jupyter Notebook 
 
 ---
 
