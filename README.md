@@ -1,6 +1,7 @@
-![Tesla](tesla_plot.png)
+# 📊 Tesla Stock & Revenue Analysis
 
-# 📊 Revenue Dashboard Project
+<img src="tesla_plot.png" width="800">
+
 
 ### 🔍 Overview
 
@@ -32,8 +33,12 @@ This project is part of my Data Science portfolio showcasing real-world data ana
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
 
-###  🎮 GameStop Analysis
-![GameStop](gme_plot.png)
+### 🎮 GameStop Analysis
+
+<img src="gme_plot.png" width="800">
+
+- Visualization of GameStop stock price
+- Revenue trends showing volatility
 
 ---
 
