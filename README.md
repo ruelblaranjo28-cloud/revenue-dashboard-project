@@ -1,3 +1,5 @@
+![Tesla](tesla_plot.png)
+
 📊 Revenue Dashboard Project
 
 🔍 Overview
@@ -29,6 +31,8 @@ GameStop Stock & Revenue
 
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
+ 🎮 GameStop Analysis
+![GameStop](gme_plot.png)
 
 ---
 
