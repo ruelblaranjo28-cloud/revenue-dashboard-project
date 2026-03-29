@@ -31,6 +31,7 @@ GameStop Stock & Revenue
 
 - Visualization of GameStop stock price
 - Revenue trends showing volatility
+
  🎮 GameStop Analysis
 ![GameStop](gme_plot.png)
 
